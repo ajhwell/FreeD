@@ -1111,6 +1111,28 @@
       "webOpen": true,
       "click": true
     },
+{
+            "name":"斗鱼一起看(Web)",
+            "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+            "keyDownPlay":false,
+            "keyUpPlay":false,
+            "userAgent":"PC",
+            "ads":"",
+            "webUrl":"https://www.douyu.com/g_yqk",
+            "webOpen":true,
+            "click":true
+        },
+        {
+            "name":"哔哩哔哩一起看(Web)",
+            "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+            "keyDownPlay":false,
+            "keyUpPlay":false,
+            "userAgent":"PC",
+            "ads":"",
+            "webUrl":"https://live.bilibili.com/p/eden/area-tags?visit_id=c6opq06jels0&areaId=33&parentAreaId=10",
+            "webOpen":true,
+            "click":true
+        },
     {
       "name": "一只鱼(Web)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
