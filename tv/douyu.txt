@@ -1,4 +1,12 @@
-312407,http://dyscdnali1.douyucdn.cn/live/312407rTJBqOfCxb.flv?uuid=
-9999,http://dyscdnali1.douyucdn.cn/live/9999rrAxYF07aYKk.flv?uuid=
-1870001,http://dyscdnali1.douyucdn.cn/live/1870001rYhu0A4W0.flv?uuid=
-507882,http://dyscdnali1.douyucdn.cn/live/507882rmffLzk1oy.flv?uuid=
+1,http://dyscdnali1.douyucdn.cn/live/2758565rXfu5x1d6_4000.flv?uuid=
+2,http://dyscdnali1.douyucdn.cn/live/4258555r3isvDdlq_4000.flv?uuid=
+3,http://dyscdnali1.douyucdn.cn/live/9559158r1mFQGWji_4000.flv?uuid=
+4,http://dyscdnali1.douyucdn.cn/live/9220456rOxbOwedo_4000.flv?uuid=
+5,http://dyscdnali1.douyucdn.cn/live/9065082rjXWRXwnV_4000.flv?uuid=
+6,http://dyscdnali1.douyucdn.cn/live/7796193rs7i3ciYW_4000.flv?uuid=
+7,http://dyscdnali1.douyucdn.cn/live/10240553rLYDUiHc_4000.flv?uuid=
+8,http://dyscdnali1.douyucdn.cn/live/9639225rfndDWwr0_4000.flv?uuid=
+9,http://dyscdnali1.douyucdn.cn/live/9643264rfNz7CpIk_4000.flv?uuid=
+10,http://dyscdnali1.douyucdn.cn/live/8014467rSc1hmqdx_4000.flv?uuid=
+11,http://dyscdnali1.douyucdn.cn/live/9419771rorIy8j1S_4000.flv?uuid=
+12,http://dyscdnali1.douyucdn.cn/live/9650887rHHGVpUSa_4000.flv?uuid=
