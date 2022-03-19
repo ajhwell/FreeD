@@ -1,4 +1,4 @@
-312407=http://dyscdnali1.douyucdn.cn/live/312407rTJBqOfCxb.flv?uuid=
-9999=http://dyscdnali1.douyucdn.cn/live/9999rrAxYF07aYKk.flv?uuid=
-1870001=http://dyscdnali1.douyucdn.cn/live/1870001rYhu0A4W0.flv?uuid=
-507882=http://dyscdnali1.douyucdn.cn/live/507882rmffLzk1oy.flv?uuid=
+312407,http://dyscdnali1.douyucdn.cn/live/312407rTJBqOfCxb.flv?uuid=
+9999,http://dyscdnali1.douyucdn.cn/live/9999rrAxYF07aYKk.flv?uuid=
+1870001,http://dyscdnali1.douyucdn.cn/live/1870001rYhu0A4W0.flv?uuid=
+507882,http://dyscdnali1.douyucdn.cn/live/507882rmffLzk1oy.flv?uuid=
